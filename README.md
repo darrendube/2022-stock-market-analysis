@@ -26,4 +26,4 @@ The analysis was done in a Jupyter Notebook. This analysis can be viewed by open
    - `pandas`
    - `matplotlib`
      
-The fifth code block involves downloading the price data of about **5000 stocks**, and may therefore take a while.
+The sixth code block involves downloading the price data of about **5000 stocks**, and may therefore take a while.
