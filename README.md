@@ -27,3 +27,10 @@ The analysis was done in a Jupyter Notebook. This analysis can be viewed by open
    - `matplotlib`
      
 The sixth code block involves downloading the price data of about **5000 stocks**, and may therefore take a while.
+
+# Result
+
+![output](https://github.com/darrendube/2022-stock-market-analysis/assets/45855781/cd4be5a3-f760-487e-8f01-b16695171bb1)
+
+The **Energy** sector gained a whooping 60%! This was largely the result of the war in Ukraine pushing up oil prices to record highs. The **Information Technology** sector, on the other hand, declined about 30%. Analysts attribute this to high interest rates, high inflation, and a generally uncertain business environment.
+
