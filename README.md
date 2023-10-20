@@ -29,6 +29,7 @@ The analysis was done in a Jupyter Notebook. This analysis can be viewed by open
 The sixth code block involves downloading the price data of about **5000 stocks**, and may therefore take a while.
 
 # Result
+(the y-axis shows the **return**, and the x-axis shows the **trading day** in 2022 (there were 251 trading days in total))
 
 ![output](https://github.com/darrendube/2022-stock-market-analysis/assets/45855781/cd4be5a3-f760-487e-8f01-b16695171bb1)
 
